@@ -5,9 +5,8 @@
 - 🌱 I’m currently learning NLP
 - 💬 Ask me about ML, pandas, preprocessing 
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/meryem-selma-esen)
-- :heart_eyes: I love cooking, traveling, watercolorpainting, photography, :books:, :mag_right:, :airplane:, :art:
-- 
-- ⚡ Fun fact: ...
+- :heart_eyes: I love cooking, traveling, watercolorpainting, photography, reading
+- ⚡ Fun fact: I lived in 4 different continents :earth_africa:
 -->
 
 
